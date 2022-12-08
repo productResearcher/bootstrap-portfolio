@@ -1,0 +1,70 @@
+ .navbar-nav {
+            margin-left: auto;
+     margin-right: -1px !important;
+        }
+.navbar-brand{
+    margin: 20px;
+    padding: 10px;
+    background: #ffffff;
+}
+.profile-photo{
+    background-image: url(/img/bio-img.gif);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: center;
+    display: block;
+    width: 100%;
+    height: 300px;
+  position: relative;
+    background-color: antiquewhite;
+}
+.profile-text{
+     position:absolute;
+    bottom:0;
+}
+.title-section {
+    max-width: 250px;
+}
+.tech-stack{
+    font-size: 10px;
+}
+.project-btn{
+    height: 40px;
+}
+.portfolio-sm{
+    height: 200px !important;
+}
+.portfolio-sm-one{
+    background-image: url(/img/module-one.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+}
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .sm-card {
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(2px);
+    background-color: rgba(255, 255, 255, 0.5);  
+  }
+  .sm-card-title .sm-tech-stack .sm-card-text {
+    display: none;
+  }
+}
+.sm-card-title{
+    font-size: 12px;
+    font-weight: 700;
+}
+.sm-tech-stack {
+    font-size: 10px;
+}
+.portfolio-sm-three{
+    background-image: url(/img/module-two.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+}
+       Module three challenge
