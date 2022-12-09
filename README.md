@@ -3,7 +3,7 @@
 
 ## This is a class work 9 Dec 22
 
-Welcome to my portfolio page, I build this portfolio to showcase my work and skills, enjoy.
+Welcome to my portfolio page, I build this portfolio as a school challenge to showcase my work and skills, enjoy.
 
 ## Tech stack
 
