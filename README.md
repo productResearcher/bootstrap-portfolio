@@ -60,7 +60,7 @@ Used network tab to explore opportunitites to improve site performance:
 ![Google dev tools network image](img/g-d-t-network-test-results.png "Image of Google Developer Tools Networks tab, showing Module two challenge site netowkr load time and other elements")
 
 Using performance tab to check performance:
-![Google develover tools Performance tab image](img/ "Image of Google Developer Tools Performance tab, showing the performance of Module two challenge site")
+![Google develover tools Performance tab image](img/g-d-t-performance-test-results.png "Image of Google Developer Tools Performance tab, showing the performance of Module two challenge site")
 
 No futher tests reqauired as this is a one page static site.
 
